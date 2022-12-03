@@ -1,7 +1,7 @@
 # DANMF_CRFR
 ## Deep Autoencoder-like NMF with Contrastive Regularization and Feature Relationship preservation
   
-  *Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi, Nooruldeen Nasih Qader*
+  *Navid Salahian, Fardin Akhlaghian Tab, Seyed Amjad Seyedi, Jovan Chavoshinejad*
   
   *Expert Systems with Applications (214) 2023, 119051*
   
