@@ -7,7 +7,7 @@
   
   *https://doi.org/10.1016/j.eswa.2022.119051*
 
-<p align=center><img src="fig.svg" width="50%" height="50%"></p>
+<p align=center><img src="fig.svg" width="70%" height="70%"></p>
 
   # Abstract
 
